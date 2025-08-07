@@ -8,6 +8,7 @@ Include:
 - Setting working directory
 - Adding source code
 - Running the application
+- Add a multi stage docker build 
 """
 
 def generate_dockerfile(language):
